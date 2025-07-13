@@ -1,2 +1,2 @@
-var token = "7327210511:AAGmGjEd7NVutESp1H9CBQXJI7y9__OcFoI";
-var grup = "6485002123";
+var token = "8134968792:AAFC9P_P95dncNXgDjerPWMg58U5fzsWzzQ";
+var grup = "6292184549";
